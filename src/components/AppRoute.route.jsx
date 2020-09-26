@@ -4,7 +4,6 @@ import { NotFound } from "./NotFound.component";
 import { ProductDetails } from "./ProductDetails.component";
 import { ProductIndex } from "./ProductIndex.component";
 import { Products } from "./Products.component";
-import { HomePageButton } from "./HomePageButton.component";
 
 export const AppRoute = () => {
   return (
